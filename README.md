@@ -1,4 +1,4 @@
-
+![Professional Data Analyst Github Banner](https://github.com/Sksahanan/Credit-Card-Performance-Growth-Initiative/assets/171436562/a876de96-29d0-47e7-a8c1-459e6b6a62bb)
 
 - 👋 Hi, I’m Subham kumar Sahanan
 - 🎓 Post-graduated from IIT Madras.
