@@ -36,7 +36,7 @@
 ![image](https://github.com/Sksahanan/Credit-Card-Performance-Growth-Initiative/assets/171436562/5e7aa3f9-8762-4ada-89d2-8fb8908b3d06)
 
 ### PSYLQ-Data Analyst- April 2024
-  * Investigated user engagement's impact on restaurant success using Yelp data. Key Insight 40% increase in average star rating for restaurants with high review count & tips. Positive sentiment reviews (useful, funny, cool) associated with 15% higher review count. Restaurants with consistent engagement (above 3.5 stars) saw steady or growing engagement over time.
+  * Investigated user engagement's impact on restaurant success using Yelp data with SQL. Key Insight 40% increase in average star rating for restaurants with high review count & tips. Positive sentiment reviews (useful, funny, cool) associated with 15% higher review count. Restaurants with consistent engagement (above 3.5 stars) saw steady or growing engagement over time.
   * Analyzed 2019 Lok Sabha election data to extract insights, trends, and patterns in voter turnout, party performance, and candidate results for AtliQ Media's 2024 election coverage. Developed and fine-tuned an "AdaBoost with Grid Search" achieving 95.85% accuracy in predicting election outcomes, with ongoing enhancements to optimize performance. 
 ![image](https://github.com/Sksahanan/Credit-Card-Performance-Growth-Initiative/assets/171436562/bedcd6eb-03f3-4342-8ead-05068b8a1146)
 
