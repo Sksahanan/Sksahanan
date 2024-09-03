@@ -40,7 +40,7 @@
   * Analyzed 2019 Lok Sabha election data to extract insights, trends, and patterns in voter turnout, party performance, and candidate results for AtliQ Media's 2024 election coverage. Developed and fine-tuned an "AdaBoost with Grid Search" achieving 95.85% accuracy in predicting election outcomes, with ongoing enhancements to optimize performance. 
 ![image](https://github.com/Sksahanan/Credit-Card-Performance-Growth-Initiative/assets/171436562/bedcd6eb-03f3-4342-8ead-05068b8a1146)
 
-### BCG Data Science Job Simulation on Forage - May 2024
+### BCG Data Science Job Simulation on Forage - June 2024
   * Predicted churn in PowerCo’s SME division, identifying a 9.7% churn rate among 14,606 customers, with yearly consumption, forecasted consumption, and net margin as main drivers, leading to a targeted discount strategy for high-value customers.
   * Analyzed customer churn for powerCO Analytics using Python libraries (Pandas, NumPy) and data visualization techniques. Built and optimized a random forest model achieving 90% accuracy in predicting churn, resulting in actionable insights.
 ![image](https://github.com/Sksahanan/Credit-Card-Performance-Growth-Initiative/assets/171436562/3bfca3c8-b8df-4f84-bf6b-06c66bc25ccf)
